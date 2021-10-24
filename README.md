@@ -1,10 +1,10 @@
 ##  Tela de Login
-Tela de Login simples feita com HTML e CSS focado para estudo
+Tela de Login simples feita para estudo
 
 ## ⚙ Linguagens Utilizadas:
 
-- HTML
-- CSS
+<img align="center" alt="HTML" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> - HTML <br>
+<img align="center" alt="CSS" height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> - CSS <br>
 
 ## 📸 Demontração
 
